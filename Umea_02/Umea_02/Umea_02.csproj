@@ -95,6 +95,7 @@
       <DependentUpon>Form6.cs</DependentUpon>
     </Compile>
     <Compile Include="Instrument.cs" />
+    <Compile Include="ListOfInstruments.cs" />
     <Compile Include="Membership.cs" />
     <Compile Include="Migrations\201910311023040_InitialModel.cs" />
     <Compile Include="Migrations\201910311023040_InitialModel.designer.cs">
